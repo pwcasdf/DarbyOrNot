@@ -9,4 +9,4 @@ UWP app which uses Windows ML and machine learning model created by Custom Visio
       
 
 ## Video!!!!!!!!!!!!!!!!!!!!!
-[![Windows ML](https://img.youtube.com/vi/mfyqQlr8eTI/0.jpg)](https://www.youtube.com/watch?v=ZGLqxu1N9k0)
+[![Windows ML](https://img.youtube.com/vi/ZGLqxu1N9k0/0.jpg)](https://www.youtube.com/watch?v=ZGLqxu1N9k0)
